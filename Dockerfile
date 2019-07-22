@@ -1,7 +1,7 @@
 FROM debian:stretch-slim
 
 # File Author / Maintainer
-MAINTAINER AGSPhoenix
+MAINTAINER dapor2000
 
 RUN \
 # MAN folder needed for jre install
