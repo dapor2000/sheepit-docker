@@ -12,7 +12,7 @@ docker run -d \
  --name "sheepit" \
  -e user_name=XXXXXX \
  -e user_password=XXXXXX \
- agsphoenix/sheepit-docker:latest
+ dapor2000/sheepit-docker:latest
 ```
 
 You can also specify the `cpu` variable to override autodetection; like `-e cpu=4`.
